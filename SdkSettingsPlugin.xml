@@ -1,0 +1,9 @@
+<application>
+  <component name="core.configuration.AppSettingsState">
+    <option name="appSetting">
+      <AppSetting>
+        <option name="useOldIcons" value="true" />
+      </AppSetting>
+    </option>
+  </component>
+</application>
