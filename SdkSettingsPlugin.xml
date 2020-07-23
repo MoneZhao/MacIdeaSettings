@@ -2,7 +2,7 @@
   <component name="core.configuration.AppSettingsState">
     <option name="appSetting">
       <AppSetting>
-        <option name="iconTypeClass" value="core.view.icon.impl.CuteIcon" />
+        <option name="iconTypeScheme" value="cute" />
         <option name="lightStyleType" value="/org/fife/ui/rsyntaxtextarea/themes/idea.xml" />
       </AppSetting>
     </option>
